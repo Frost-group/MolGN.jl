@@ -4,6 +4,8 @@ authors = ["Jarvist Moore Frost <jarvist@gmail.com> and contributors"]
 version = "0.1.0"
 
 [deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 Lux = "b2108857-7c20-44ae-9111-449ecde12c47"
 MolecularGraph = "6c89ec66-9cd8-5372-9f91-fabc50dd27fd"
 
