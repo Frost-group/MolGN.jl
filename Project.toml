@@ -3,6 +3,10 @@ uuid = "92df38e8-26f8-4f16-a4ad-9bcc168b9752"
 authors = ["Jarvist Moore Frost <jarvist@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+Lux = "b2108857-7c20-44ae-9111-449ecde12c47"
+MolecularGraph = "6c89ec66-9cd8-5372-9f91-fabc50dd27fd"
+
 [compat]
 julia = "1.7"
 
