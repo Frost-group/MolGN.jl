@@ -10,3 +10,12 @@ Built on MolecularGraph.jl and Lux.jl.
 [![ColPrac: Contributor's Guide on Collaborative Practices for Community Packages](https://img.shields.io/badge/ColPrac-Contributor's%20Guide-blueviolet)](https://github.com/SciML/ColPrac)
 [![PkgEval](https://JuliaCI.github.io/NanosoldierReports/pkgeval_badges/M/MolGN.svg)](https://JuliaCI.github.io/NanosoldierReports/pkgeval_badges/report.html)
 
+## Prior work / see also
+
+https://github.com/CarloLucibello/GraphNeuralNetworks.jl - many models implemented, on top of flux
+
+https://github.com/Chemellia/AtomicGraphNets.jl - specialised to crystal graph CNN, on top of flux, inspired in part by CarloLucibello's package
+
+https://github.com/FluxML/GeometricFlux.jl - generalised to Bronsteins Geometric generalisation
+
+https://github.com/SimonEnsemble/graph-kernel-SVM-for-toxicity-of-pesticides-to-bees - graph kernel SVM, but written as a compact code rather than package
